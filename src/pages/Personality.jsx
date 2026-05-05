@@ -30,6 +30,9 @@ const hobbies = [
   { emoji: "🎸", name: "Music", desc: "Enjoying and exploring various music genres" },
   { emoji: "🏃", name: "Light Exercise", desc: "Casual jogging to keep the body fit" },
   { emoji: "🍳", name: "Cooking", desc: "Experimenting with recipes and creating new dishes" },
+  { emoji: "✍️", name: "Script Writing", desc: "Writing stories and scripts for various media" },
+  { emoji: "🎬", name: "Editing", desc: "Editing videos and creating content" },
+  { emoji: "🎮", name: "Gaming", desc: "Playing video games for fun and relaxation" },
 ]
 
 function formatTime(s) {

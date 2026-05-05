@@ -150,7 +150,7 @@ function TypingText({ text, speed = 80 }) {
 
 function Home() {
     return (
-        <div className="w-full  mx-auto py-8 px-4 flex flex-col gap-20">
+        <div className="w-full max-w-5xl mx-auto py-8 px-4 flex flex-col gap-12">
 
             {/* ── SECTION 1: Hero ── */}
             <section className="flex flex-col-reverse md:flex-row items-center gap-10">

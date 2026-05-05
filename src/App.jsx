@@ -20,7 +20,6 @@ function App() {
         <div
           className="flex flex-col flex-1 min-h-screen"
           style={{
-            marginRight: isOpen ? '240px' : '72px',
             transition: 'margin-left 300ms ease-in-out',
             width: isOpen ? 'calc(100% - 240px)' : 'calc(100% - 72px)',
             maxWidth: '100%',
